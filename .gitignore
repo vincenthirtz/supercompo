@@ -19,9 +19,18 @@
 .env.test.local
 .env.production.local
 
-npm-debug.log*
+# yarn
 yarn-debug.log*
 yarn-error.log*
+
+# storybook
 build-storybook.log
 
+# npm
 package-lock.json
+npm-debug.log*
+
+# CI
+gh-pages
+gh-pages.pub
+
