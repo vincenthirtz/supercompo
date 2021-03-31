@@ -24,7 +24,7 @@ npx sb init
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+Storybook live system https://main--6062dd1055b5b50021c5d504.chromatic.com
 
 ## Built With
 
