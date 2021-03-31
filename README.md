@@ -29,7 +29,7 @@ Add additional notes about how to deploy this on a live system
 
 * [create-react-app](https://github.com/facebook/create-react-app) - Ci for init react project without config
 * [Storybook](https://storybook.js.org/) - Expose your components in live and UI/Unit tests implements
-* [Chromatic](https://www.chromatic.com//) - Deploy storybook and launch tests
+* [Chromatic](https://www.chromatic.com/) - Deploy storybook and launch tests
 
 ## Contributing
 
