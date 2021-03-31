@@ -1,5 +1,6 @@
 [![Chromatic](https://github.com/vincenthirtz/supercompo/actions/workflows/chromatic.yml/badge.svg?branch=main)](https://github.com/vincenthirtz/supercompo/actions/workflows/chromatic.yml)
 [![Deployment](https://github.com/vincenthirtz/supercompo/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/vincenthirtz/supercompo/actions/workflows/deploy.yml)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/dd29187a-bbc8-4240-b2f0-9024380d3ed5/deploy-status)](https://app.netlify.com/sites/supercompo/deploys)
 
 # Supercompo
 
