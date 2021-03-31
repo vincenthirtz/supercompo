@@ -11,9 +11,6 @@
     "storybook": "6.2.1",
     "web-vitals": "^1.1.1"
   },
-  "resolutions": {
-    "babel-loader": "8.1.0"
-  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
